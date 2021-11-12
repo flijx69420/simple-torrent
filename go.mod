@@ -1,3 +1,4 @@
+// +scalingo goVersion go1.16.1
 module github.com/boypt/simple-torrent
 
 go 1.17
