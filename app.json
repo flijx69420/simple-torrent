@@ -1,0 +1,14 @@
+{
+	"name": "Simple Torrent",
+	"description": "Simple Torrent",
+	"repository": "https://github.com/tiararosebiezetta/simple-torrent",
+	"env": {
+		"AUTH": {
+			"description": "username:password"
+		},
+		"TITLE": {
+			"description": "MySimpleTorrent"
+		}
+	},
+    	"stack": "container"
+}
